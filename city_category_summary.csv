@@ -1,0 +1,28 @@
+city,category,bookings_count,revenue_inr,sla_breaches
+Bengaluru,AC Repair & Service,40,61229,7
+Bengaluru,Deep Home Cleaning,18,49592,2
+Bengaluru,Electrical Repair,19,23082,3
+Bengaluru,Salon for Men,14,13565,3
+Bengaluru,Salon for Women,16,32367,2
+Chennai,Deep Home Cleaning,37,109499,5
+Chennai,Electrical Repair,13,13044,1
+Chennai,Plumbing,63,53029,9
+Delhi NCR,AC Repair & Service,14,22760,0
+Delhi NCR,Deep Home Cleaning,25,63041,0
+Delhi NCR,Electrical Repair,12,12585,1
+Delhi NCR,Plumbing,19,16065,3
+Delhi NCR,Salon for Women,13,26320,2
+Hyderabad,Deep Home Cleaning,29,91425,4
+Hyderabad,Electrical Repair,27,29032,3
+Hyderabad,Plumbing,13,11743,1
+Hyderabad,Salon for Men,23,22289,5
+Hyderabad,Salon for Women,6,17149,1
+Mumbai,AC Repair & Service,20,29050,4
+Mumbai,Deep Home Cleaning,28,73938,1
+Mumbai,Electrical Repair,11,11360,2
+Mumbai,Salon for Men,27,23901,5
+Mumbai,Salon for Women,6,13181,1
+Pune,Deep Home Cleaning,39,121469,9
+Pune,Electrical Repair,30,30778,3
+Pune,Salon for Men,14,13808,1
+Pune,Salon for Women,24,62672,1
